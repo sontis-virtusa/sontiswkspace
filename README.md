@@ -11,3 +11,6 @@ text.invoice.list.invoiceno=Invoice No
 text.invoice.list.orderno=Order No
 text.invoice.list.date=Invoice Date
 text.invoice.list.placedBy=Placed By
+
+text.invoice.list.sdasdadasdsad=Placed By
+text.invoice.list.swerwrwer=Placed By
